@@ -109,3 +109,6 @@ docker-compose.yml
 # IntelliJ configuration
 /.idea/
 /dev/
+
+# fly.io config
+fly.toml
